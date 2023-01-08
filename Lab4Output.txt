@@ -1,0 +1,55 @@
+Before removal of appointment 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Dentist appointment.: 11/2/2004]
+Onetime[Trick or Treat.: 10/31/2004]
+Monthly[Dentist appointment.: 11/2/2004]
+Onetime[Dentist appointment.: 11/2/2004]
+
+After removal of 11/2/2004 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Trick or Treat.: 10/31/2004]
+
+
+-~=== Adding More Appointments ===~-
+
+Before removal of appointment 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Trick or Treat.: 10/31/2004]
+Daily[Take a Shower: 8/15/2016]
+Monthly[Change Contact Lenses: 1/11/2017]
+Onetime[Do Lab 4: 9/27/2022]
+
+After removal of 1/11/2017 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Trick or Treat.: 10/31/2004]
+Daily[Take a Shower: 8/15/2016]
+Onetime[Do Lab 4: 9/27/2022]
+
+Before removal of appointment 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Trick or Treat.: 10/31/2004]
+Daily[Take a Shower: 8/15/2016]
+Onetime[Do Lab 4: 9/27/2022]
+Daily[Take a Shower: 8/14/2022]
+Daily[Take a Shower: 8/15/2022]
+Daily[Take a Shower: 8/16/2022]
+Monthly[Change Contact Lenses: 4/11/2017]
+Onetime[Do Midterms: 8/14/2022]
+
+After removal of 8/14/2022 
+Daily[Brush your teeth.: 8/13/2000]
+Monthly[Visit grandma.: 5/20/2003]
+Onetime[Trick or Treat.: 10/31/2004]
+Daily[Take a Shower: 8/15/2016]
+Onetime[Do Lab 4: 9/27/2022]
+Daily[Take a Shower: 8/15/2022]
+Daily[Take a Shower: 8/16/2022]
+Monthly[Change Contact Lenses: 4/11/2017]
+
+
+Process finished with exit code 0

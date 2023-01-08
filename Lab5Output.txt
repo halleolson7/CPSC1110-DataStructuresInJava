@@ -1,0 +1,23 @@
+I am a Vehicle, VROOM!!!
+I am a Car, VROOM!!!
+I am a Boat, VROOM!!!
+I am a Car, VROOM!!!
+I am a Car, VROOM!!!
+I am a Boat, VROOM!!!
+I am a Boat, VROOM!!!
+I am a Vehicle, VROOM!!!
+I am a Car, VROOM!!!
+I am a Vehicle, VROOM!!!
+Vehicle 92.26
+Car 54.53
+Boat 45.16
+Car 33.19
+Car 14.82
+Boat 84.35
+Boat 38.23
+Vehicle 65.14
+Car 50.33
+Vehicle 5.75
+The first object with efficiency less than 20 was Car with efficiency of 14.82
+
+Process finished with exit code 0

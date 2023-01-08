@@ -1,0 +1,17 @@
+Test Case 1: 
+Combined resistance: 75.0
+Expected: 75.0
+
+Test Case 2: 
+Combined resistance: 450.0
+Expected: 450.0
+
+Test Case 3: 
+Combined resistance: 33.3
+Expected: 33.3
+
+Test Case 4: 
+Combined resistance: 483.3
+Expected: 483.3
+
+Process finished with exit code 0
